@@ -12,10 +12,9 @@
 
 ## 📫 How to reach me
 
-###### Discord: Kωstαs#4570
-###### My discord server: [Space Development](https://dsc.gg/spacedevs)
+###### Discord: tg_kwstas
+###### My discord server: [Cronos Development](https://dsc.gg/cronosdevs)
 ###### My bot: [Cubic](https://dsc.gg/cubic-bot)
-###### Linktr.ee: [kwstas15th](https://linktr.ee/kwstas15th)
 
 <!---
 AstroGamer15/AstroGamer15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
