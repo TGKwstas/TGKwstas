@@ -14,7 +14,7 @@
 
 ###### Discord: tg_kwstas
 ###### My discord server: [Cronos Development](https://dsc.gg/cronosdevs)
-###### My bot: [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1cq0l.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+###### My bot: [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1et6d.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 <!---
 AstroGamer15/AstroGamer15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
