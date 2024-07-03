@@ -20,3 +20,4 @@
 AstroGamer15/AstroGamer15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Discord Presence](https://lanyard.cnrad.dev/api/909786248145698876)](https://discord.com/users/909786248145698876)
