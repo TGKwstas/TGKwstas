@@ -12,7 +12,7 @@
 
 ## 📫 How to reach me
 
-###### Discord: tg_kwstas
+###### Discord: tg_kwstas2
 ###### My discord server: [Cronos Development](https://dsc.gg/cronosdevs)
 ###### My bot: [Cubic](https://dsc.gg/cubicbot)┃[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1et6d.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 ###### Bot Website: [here](https://cubicbot.netlify.app)┃[![Netlify Status](https://api.netlify.com/api/v1/badges/fd79fd37-dc29-4fc1-8c0b-2bdc2cc65c5e/deploy-status)](https://app.netlify.com/sites/cubicbot/deploys)
@@ -31,4 +31,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgkwstas" alt="tgkwstas" /></a> </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/909786248145698876)](https://discord.com/users/1111624967335981146)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1111624967335981146)](https://discord.com/users/1111624967335981146)
