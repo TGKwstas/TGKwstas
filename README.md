@@ -2,7 +2,7 @@
 
 👋 Hi! I use "TG_Kωstαs" for nickname
 
-🗓️ I'm a 17 years old Greek guy 🇬🇷
+🗓️ I'm a 18 years old Greek guy 🇬🇷
 
 👀 I’m interested in programming applications, discord bots and websites
 
@@ -31,4 +31,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgkwstas" alt="tgkwstas" /></a> </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/909786248145698876)](https://discord.com/users/909786248145698876)
+[![Discord Presence](https://lanyard.cnrad.dev/api/909786248145698876)](https://discord.com/users/1111624967335981146)
