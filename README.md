@@ -31,4 +31,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgkwstas" alt="tgkwstas" /></a> </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1111624967335981146)](https://discord.com/users/1111624967335981146)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1111624967335981146?showDisplayName=true)](https://discord.com/users/1111624967335981146)
